@@ -1,0 +1,9 @@
+img {
+}
+
+.display-position {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
